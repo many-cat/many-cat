@@ -4,5 +4,5 @@ My name is Darren, an Android software engineer.
 
 
 - 📫 How to reach me: 
-  * Telegram: [@drakeet](https://t.me/darrenliule)
+  * Telegram: [@darren](https://t.me/darrenliule)
   
